@@ -53,7 +53,7 @@ background-size: 50% 75%
 
 .pull-left[
 
-- Phoenix 兴起于2020年8月悉尼大学学生会选举，是一个以中国大陆留学生及澳洲华裔学生主导的团体，是悉尼大学目前最大的国际学生团体之一。
+- Phoenix 兴起于2020年8月悉尼大学学生会选举，是一个以中国大陆留学生及澳洲华裔学生主导的公益团体，是悉尼大学目前最大的国际学生团体之一。
 
 - Phoenix 自创始以来，一直坚持着为留学生及其它弱势团体去一起争取权益，诉诸学生会及校内外团体去保 护权益的同时也希望身体力行去改善目前的学校环境，为大家做一些有意义的事情。
 
@@ -67,7 +67,7 @@ More about SRC: [STUDENTS' REPRESENTATIVE COUNCIL, THE UNIVERSITY OF SYDNEY](htt
 ---
 
 
-background-image: url("青蓝.png")
+background-image: url("assets/青蓝.png")
 background-position: 100% 50%
 background-size: 50% 75%
 
@@ -93,7 +93,7 @@ CheerLight
 
 ]
 ---
-background-image: url("培风.jpeg")
+background-image: url("assets/培风.jpeg")
 background-size: 750px
 background-position: 50% 75%
 
@@ -150,12 +150,12 @@ class: segue-red
 
 ---
 
-background-image: url("assets/peifeng.jpg")
+background-image: url("assets/peifeng1.jpg")
 background-position: 100% 50%
 background-size: 100% 100%
 
 ---
-background-image: url("assets/cheerlight.jpg")
+background-image: url("assets/cheerlight1.jpg")
 background-position: 100% 50%
 background-size: 100% 100%
 
