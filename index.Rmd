@@ -173,7 +173,7 @@ background-color: #0148A4
 
 ### .white[Arrow]
 
-### .white[March]
+### .white[March 2021]
 
 ---
 background-image: url("assets/教育.jpg"), url("assets/交换.jpg"), url("assets/活动.jpg"),url("assets/实习.jpg")
