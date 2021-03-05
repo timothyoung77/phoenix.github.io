@@ -45,9 +45,9 @@ class: sydney-red
 - Q&A
 
 ---
-background-image: url("assets/phoenix1.jpeg")
-background-position: 100% 50%
-background-size: 50% 75%
+background-image: url("assets/phoenix1.jpeg"),url("assets/phoenixQR.jpg")
+background-position: 100% 50%,40% 1% 
+background-size: 50% 75%,120px
 
 ## About us `r icon::fa("columns", pull = "right")`
 
@@ -93,20 +93,18 @@ CheerLight
 
 ]
 ---
-background-image: url("assets/培风.jpeg")
-background-size: 750px
-background-position: 50% 75%
+background-image: url("assets/培风QR.jpeg"),url("assets/培风的优势.png"),url("assets/培风.jpeg")
+background-size: 160px,40% 48%,200px
+background-position: 85% 17%,90% 85%,67% 17%
 
 
 ## .brand-yellow[培风]
-
+.pull-left[
 - “培风”来自《庄子．逍遥游》，意为借助“大风”的力量飞向更高。
 - 培风是一个分享澳本学生申请研究生和PhD（英美新港加欧澳地区）和求职规划的资讯共享平台，旨在努力打破澳本出国及求职的信息不对称。
-
-.small[
- 导师介绍 [泛商科，经济，理工篇导师一览，你准备好了吗？](https://mp.weixin.qq.com/s/KJepDZSbKSbyCiT54Tkyjg)
+- 导师均来自耶鲁/哥伦比亚/芝加哥/牛津/LBS等顶级名校，覆盖商科、文科、工科等多个领域。社群内部每日升学及求职资讯共享，杀G群陪伴打卡，申请季全流程陪伴式tips总结。
+- 我们希望通过培风这个集成平台，让往届校友和在读同学获得更紧密更深度的交流，形成和谐互助的高品质社群。
 ]
-
 .footnote[
 
 ```
@@ -178,7 +176,7 @@ background-color: #0148A4
 ---
 background-image: url("assets/教育.jpg"), url("assets/交换.jpg"), url("assets/活动.jpg"),url("assets/实习.jpg")
 background-size: 300px,300px,220px, 500px
-background-position: 32% 39%, 32% 60%, 32% 85%, 88% 69%
+background-position: 32% 34%, 32% 60%, 28% 85%, 88% 69%
 
 
 ## Background `r icon::fa("columns", pull = "right")`
@@ -203,10 +201,11 @@ background-position: 32% 39%, 32% 60%, 32% 85%, 88% 69%
 ]
 
 ---
-background-image: url("assets/英.JPG"),url("assets/法.JPG"),url("assets/日.JPG"),url("assets/瑞.JPG"),url("assets/美.JPG"),url("assets/新.JPG"),url("assets/港.JPG")
-background-size: 250px,250px,100px,250px,250px,93px,200px
-background-position: 15% 12%,15% 28%,15% 44%,15% 65%,75% 12%,63% 31%,65% 48%
+background-image: url("assets/英.JPG"),url("assets/法.JPG"),url("assets/日.JPG"),url("assets/瑞.JPG"),url("assets/美.JPG"),url("assets/新.JPG"),url("assets/港.JPG"),url("assets/星群.jpeg")
+background-size: 270px,265px,90px,200px,250px,80px,130px,170px
+background-position: 15% 22%,15% 38%,12% 58%,15% 75%,75% 22%,63% 41%,64% 58%,66% 87%
 
+## Master in Management
 .pull-left[
 
 ## 英
@@ -223,7 +222,7 @@ background-position: 15% 12%,15% 28%,15% 44%,15% 65%,75% 12%,63% 31%,65% 48%
 
 ## 美
 
-## 新·
+## 新
 
 ## 港
 
@@ -535,7 +534,6 @@ background-size: 100% 80%
 .pull-left[
 - 刷告你的GPA或者读二硕
 
-
 <blockquote>盲目读名校并不是一个好的选择，要知道自己想要的是什么</blockquote>
 ]
 ---
@@ -548,39 +546,9 @@ background-size: 100% 80%
 光源给予需要方向的后辈进行指引）
 - 澳本当自强
   - （说句更现实点的，中澳关系不是特别好，澳洲funding变少，排名可能会下降，我们更应该为自己的长远作准备。澳本是鄙视链的下游但澳洲两极分化太大很多时候我们会被影响我希望我们能够通过自己的努力汇集一帮有识之士进行改变增加我们在国内的影响力。我不知道我们是否能成功但我知道必须有人做就算失败了也能给与后人一些经验。送大家一句话澳本当自强）
-
-
 ---
-## FAQ `r icon::fa("question-circle", pull = "right")`
 
-<blockquote>
-balahbalahbalah?
-</blockquote>
-
-balahbalahbalah
-
---
-
-<blockquote>
-balahbalahbalah?
-</blockquote>
-
-balahbalahbalah
-
---
-
-<blockquote>
-balahbalahbalah?
-</blockquote>
-
-balahbalahbalah
-
-
----
 ## Wrap up
-
-Briefly conclude what you have done
-
 
 
 
